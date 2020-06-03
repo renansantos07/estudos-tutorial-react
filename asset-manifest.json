@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/renansantos07/estudos-tutorial-react/static/css/main.211cd11a.chunk.css",
-    "main.js": "/renansantos07/estudos-tutorial-react/static/js/main.abc76baa.chunk.js",
-    "main.js.map": "/renansantos07/estudos-tutorial-react/static/js/main.abc76baa.chunk.js.map",
-    "runtime-main.js": "/renansantos07/estudos-tutorial-react/static/js/runtime-main.4430789d.js",
-    "runtime-main.js.map": "/renansantos07/estudos-tutorial-react/static/js/runtime-main.4430789d.js.map",
-    "static/js/2.0bf4f24d.chunk.js": "/renansantos07/estudos-tutorial-react/static/js/2.0bf4f24d.chunk.js",
-    "static/js/2.0bf4f24d.chunk.js.map": "/renansantos07/estudos-tutorial-react/static/js/2.0bf4f24d.chunk.js.map",
-    "index.html": "/renansantos07/estudos-tutorial-react/index.html",
-    "precache-manifest.6f429cc3fcd62cdc9d33d1094f4a0ee0.js": "/renansantos07/estudos-tutorial-react/precache-manifest.6f429cc3fcd62cdc9d33d1094f4a0ee0.js",
-    "service-worker.js": "/renansantos07/estudos-tutorial-react/service-worker.js",
-    "static/css/main.211cd11a.chunk.css.map": "/renansantos07/estudos-tutorial-react/static/css/main.211cd11a.chunk.css.map",
-    "static/js/2.0bf4f24d.chunk.js.LICENSE.txt": "/renansantos07/estudos-tutorial-react/static/js/2.0bf4f24d.chunk.js.LICENSE.txt"
+    "main.css": "/estudos-tutorial-react/static/css/main.211cd11a.chunk.css",
+    "main.js": "/estudos-tutorial-react/static/js/main.abc76baa.chunk.js",
+    "main.js.map": "/estudos-tutorial-react/static/js/main.abc76baa.chunk.js.map",
+    "runtime-main.js": "/estudos-tutorial-react/static/js/runtime-main.235ea09b.js",
+    "runtime-main.js.map": "/estudos-tutorial-react/static/js/runtime-main.235ea09b.js.map",
+    "static/js/2.0bf4f24d.chunk.js": "/estudos-tutorial-react/static/js/2.0bf4f24d.chunk.js",
+    "static/js/2.0bf4f24d.chunk.js.map": "/estudos-tutorial-react/static/js/2.0bf4f24d.chunk.js.map",
+    "index.html": "/estudos-tutorial-react/index.html",
+    "precache-manifest.bf2425a38a4dab7fdf047c72d4e52d51.js": "/estudos-tutorial-react/precache-manifest.bf2425a38a4dab7fdf047c72d4e52d51.js",
+    "service-worker.js": "/estudos-tutorial-react/service-worker.js",
+    "static/css/main.211cd11a.chunk.css.map": "/estudos-tutorial-react/static/css/main.211cd11a.chunk.css.map",
+    "static/js/2.0bf4f24d.chunk.js.LICENSE.txt": "/estudos-tutorial-react/static/js/2.0bf4f24d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4430789d.js",
+    "static/js/runtime-main.235ea09b.js",
     "static/js/2.0bf4f24d.chunk.js",
     "static/css/main.211cd11a.chunk.css",
     "static/js/main.abc76baa.chunk.js"
